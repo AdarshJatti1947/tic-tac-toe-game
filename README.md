@@ -1,5 +1,3 @@
-# tic-tac-toe-game
-#built using javafx
 import javafx.stage.Stage;
 import javafx.application.Application;
 import javafx.scene.Group;
